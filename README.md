@@ -83,38 +83,12 @@ A horizontal bar chart showing which cities hosted the most IPL matches.
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- **Python** — main programming language
-- **Pandas** — data loading and analysis
-- **Matplotlib / Chart.js** — data visualization
-- **Excel (.xlsx)** — data source format
-
----
-
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/ipl-analysis.git
-cd ipl-analysis
-
-# 2. Install dependencies
-pip install pandas openpyxl matplotlib
-
-# 3. Run the analysis
-python ipl_analysis.py
-```
-
----
-
 ## 📌 Project Structure
 
 ```
 ipl-analysis/
 │
 ├── IPL_Dataset.xlsx       # Raw data file
-├── ipl_analysis.py        # Main analysis script
 ├── charts/                # Saved chart images
 └── README.md              # This file
 ```
